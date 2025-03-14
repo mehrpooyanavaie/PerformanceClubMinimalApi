@@ -156,7 +156,10 @@ https://localhost:<port>/swagger
 - **Teams** working on microservices or smaller services that don’t need the full ASP.NET Core MVC structure.
 
 ---
+## 📜 License
 
+This project is open-source and free to use under the MIT License.
+---
 ## Contact
 If you have any questions or need further assistance, feel free to reach out via email:
 
